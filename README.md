@@ -8,3 +8,5 @@ Code for my portfolio website that I built
 - Static image of the website should look something like this
 
 ![image](https://user-images.githubusercontent.com/88302412/144178844-3730edc7-ff31-440a-8d0d-e18d80b01103.png)
+
+Overall work inspired by the tutorial of @divano11/portfolio-livestream
